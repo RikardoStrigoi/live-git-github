@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "express": "^4.17.1",
+    "yarn": "^1.22.10"
+  },
+  "name": "live-git",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Ricardo Ferreira <rikardostrigoi@gmail.com>",
+  "license": "MIT"
+}
